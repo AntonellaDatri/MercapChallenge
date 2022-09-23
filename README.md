@@ -1,7 +1,7 @@
 # MercapChallenge
 
-## UML
-![MercapChallenge drawio (1)](https://user-images.githubusercontent.com/49459204/192063994-28b9e458-a4ef-429c-8fb8-16b48942a285.png)
+## Diagrama de clases
+![MercapChallenge drawio (2)](https://user-images.githubusercontent.com/49459204/192067446-e757c348-b429-4741-9f74-9a444503bf12.png)
 
 ### Decisiones de modelo
 - Asumi que una llamada no pueda durar mas de dos dias consecutivos. Con esto queiro decir que como mucho una llamada puede durar 48hs empezando 
